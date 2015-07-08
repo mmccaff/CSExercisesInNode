@@ -7,3 +7,5 @@ Currently implemented:
 * BST
 * Insertion Sort
 
+Other repos that are similar to this:
+* https://github.com/mgechev/javascript-algorithms
